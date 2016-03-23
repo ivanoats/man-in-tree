@@ -1,0 +1,19 @@
+{
+  "name": "man-in-tree",
+  "version": "1.0.0",
+  "description": "Man in Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davethegr8/man-in-tree"
+  },
+  "author": "davethegr8",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davethegr8/man-in-tree/issues"
+  },
+  "homepage": "https://github.com/davethegr8/man-in-tree"
+}
