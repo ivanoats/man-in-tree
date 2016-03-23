@@ -1,6 +1,6 @@
 {
   "name": "man-in-tree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Man in Tree",
   "main": "index.js",
   "scripts": {
